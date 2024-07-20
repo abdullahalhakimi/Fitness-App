@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق اللياقة</string>
+    <string name="title_activity_welcome_screen">شاشة الترحيب</string>
+    <string name="track_goal_content_desc">تتبع الهدف</string>
+
+    <string name="track_goal_title">تتبع هدفك</string>
+    <string name="track_goal_desc">لا تقلق إذا واجهت صعوبة في تحديد أهدافك، يمكننا مساعدتك في تحديد أهدافك وتتبعها</string>
+
+    <string name="get_burn_title">احصل على الحرق</string>
+    <string name="get_burn_desc">لنواصل الحرق لتحقيق أهدافك، الألم مؤقت فقط، إذا استسلمت الآن ستعاني من الألم للأبد</string>
+
+    <string name="eat_well_title">تناول الطعام بشكل جيد</string>
+    <string name="eat_well_desc">لنبدأ نمط حياة صحي معنا، يمكننا تحديد نظامك الغذائي كل يوم. الأكل الصحي ممتع</string>
+
+    <string name="improve_sleep_title">تحسين جودة النوم</string>
+    <string name="improve_sleep_desc">حسن جودة نومك معنا، النوم الجيد يمكن أن يجلب مزاجًا جيدًا في الصباح</string>
+
+    <string name="improve_shape_title">تحسين الشكل</string>
+    <string name="improve_shape_desc">لدي نسبة منخفضة من الدهون في الجسم وأحتاج / أريد بناء المزيد من العضلات</string>
+
+    <string name="lean_tone_title">نحافة وتنسيق</string>
+    <string name="lean_tone_desc">أنا "نحيف سمين". أبدو نحيفًا لكن بدون شكل. أريد إضافة العضلات بشكل صحيح</string>
+
+    <string name="loose_fat_title">خسارة الدهون</string>
+    <string name="loose_fat_desc">لدي أكثر من 20 رطلاً لأخسرها. أريد التخلص من كل هذه الدهون وزيادة كتلة العضلات</string>
+</resources>
